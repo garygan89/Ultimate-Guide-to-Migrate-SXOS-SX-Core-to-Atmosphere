@@ -1,6 +1,6 @@
 # Ultimate-Guide-to-Migrate-SXOS-SX-Core-to-Atmosphere
 
-# Latest support: Firmware 12.1.0
+# Latest support: Firmware 15.0.1 (released October 31, 2022)
 
 # Migrate from SXOS 3.0.5 (SX Core hardware mod) to Atmosphere 0.19.3
 
